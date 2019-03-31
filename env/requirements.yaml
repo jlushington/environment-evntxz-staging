@@ -4,7 +4,7 @@ dependencies:
   version: 0.0.1
 - name: evntxzcp
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
+  version: 0.0.3
 - name: evntxzweb
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
